@@ -1,0 +1,36 @@
+{
+  "name": "dungeonz:example_spawn",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "dungeonz:brownstone_raid2",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    {
+      "weight": 1,
+      "element": {
+        "location": "dungeonz:brownstone_raid3",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "dungeonz:brownstone_raid4",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "dungeonz:brownstone_raid5",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      },
+  ]
+}
