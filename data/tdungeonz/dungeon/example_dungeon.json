@@ -39,8 +39,9 @@
         }
     },
     "spawner": {
-        "minecraft:zombie": 10,
-        "minecraft:skeleton": 5
+        "minecraft:zombie": 10
+
+
     },
     "breakable": [],
     "placeable": [],
@@ -53,3 +54,4 @@
     "background_texture": "",
     "dungeon_structure_pool_id": "dungeonz:example_spawn"
 }
+
